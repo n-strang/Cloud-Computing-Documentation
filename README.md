@@ -14,3 +14,6 @@ All files include:
 3. A detailed explination as to why I did this and what it solves
 4. (some) have reflection questions and answers
 5. Troubleshooting notes of real issues I ran into and solved
+
+badge:
+https://www.credly.com/badges/c778ab23-298a-49a1-9991-97b8983c9352/public_url
